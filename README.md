@@ -39,7 +39,7 @@ headless=true
 
 ---
 
-## 🔹 API Automation with Postman + Newman
+# API Automation with Postman + Newman
 
 This section includes REST API test automation using Postman collections and Newman CLI.
 
