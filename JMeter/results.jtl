@@ -1,0 +1,5 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1747887005538,3425,POST Create Object,200,OK,Thread Group 1-1,text,true,,791,264,1,1,https://api.restful-api.dev/objects,3412,0,2864
+1747887009071,585,GET Object,200,OK,Thread Group 1-1,text,true,,740,189,1,1,https://api.restful-api.dev/objects/ff80818196f2a23f0196f62f31e908fd,580,0,0
+1747887009658,1429,PATCH Update Object,200,OK,Thread Group 1-1,text,true,,790,244,1,1,https://api.restful-api.dev/objects/ff80818196f2a23f0196f62f31e908fd,1427,0,579
+1747887011088,1025,DELETE Object,200,OK,Thread Group 1-1,text,true,,727,211,1,1,https://api.restful-api.dev/objects/ff80818196f2a23f0196f62f31e908fd,1021,0,487
