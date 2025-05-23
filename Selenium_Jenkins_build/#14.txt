@@ -1,0 +1,102 @@
+Started by user swarna sai sreekar
+Running as SYSTEM
+Building in workspace C:\Users\swarna.sreekar\eclipse-workspace\hpcapstone
+[hpcapstone] $ cmd /c call C:\Users\SWARNA~1.SRE\AppData\Local\Temp\jenkins3225101773171056969.bat
+
+C:\Users\swarna.sreekar\eclipse-workspace\hpcapstone>mvn test 
+[INFO] Scanning for projects...
+[WARNING] 
+[WARNING] Some problems were encountered while building the effective model for com.learning:hpcapstone:jar:0.0.1-SNAPSHOT
+[WARNING] 'build.plugins.plugin.version' for org.apache.maven.plugins:maven-compiler-plugin is missing. @ line 20, column 12
+[WARNING] 
+[WARNING] It is highly recommended to fix these problems because they threaten the stability of your build.
+[WARNING] 
+[WARNING] For this reason, future Maven versions might no longer support building such malformed projects.
+[WARNING] 
+[INFO] 
+[INFO] ----------------------< com.learning:hpcapstone >-----------------------
+[INFO] Building hpcapstone 0.0.1-SNAPSHOT
+[INFO]   from pom.xml
+[INFO] --------------------------------[ jar ]---------------------------------
+[INFO] 
+[INFO] --- resources:3.3.1:resources (default-resources) @ hpcapstone ---
+[INFO] skip non existing resourceDirectory C:\Users\swarna.sreekar\eclipse-workspace\hpcapstone\src\main\resources
+[INFO] 
+[INFO] --- compiler:3.13.0:compile (default-compile) @ hpcapstone ---
+[INFO] Nothing to compile - all classes are up to date.
+[INFO] 
+[INFO] --- resources:3.3.1:testResources (default-testResources) @ hpcapstone ---
+[INFO] skip non existing resourceDirectory C:\Users\swarna.sreekar\eclipse-workspace\hpcapstone\src\test\resources
+[INFO] 
+[INFO] --- compiler:3.13.0:testCompile (default-testCompile) @ hpcapstone ---
+[INFO] Nothing to compile - all classes are up to date.
+[INFO] 
+[INFO] --- surefire:2.18.1:test (default-test) @ hpcapstone ---
+[INFO] Surefire report directory: C:\Users\swarna.sreekar\eclipse-workspace\hpcapstone\target\surefire-reports
+
+-------------------------------------------------------
+ T E S T S
+-------------------------------------------------------
+Running TestSuite
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+May 21, 2025 2:11:42 PM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
+WARNING: Unable to find an exact match for CDP version 136, returning the closest version; found: 134; Please update to a Selenium version that supports CDP version 136
+ INFO [main] (TestBase.java:152)- Browser launched: edge
+ INFO [main] (LoginTest.java:30)- Invalid login tested successfully.
+May 21, 2025 2:12:02 PM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
+WARNING: Unable to find an exact match for CDP version 136, returning the closest version; found: 134; Please update to a Selenium version that supports CDP version 136
+ INFO [main] (TestBase.java:152)- Browser launched: edge
+ INFO [main] (LoginTest.java:48)- Wrong username login tested successfully.
+May 21, 2025 2:12:19 PM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
+WARNING: Unable to find an exact match for CDP version 136, returning the closest version; found: 134; Please update to a Selenium version that supports CDP version 136
+ INFO [main] (TestBase.java:152)- Browser launched: edge
+ INFO [main] (LoginTest.java:66)- Valid login tested successfully.
+May 21, 2025 2:12:41 PM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
+WARNING: Unable to find an exact match for CDP version 136, returning the closest version; found: 134; Please update to a Selenium version that supports CDP version 136
+ INFO [main] (TestBase.java:152)- Browser launched: edge
+ INFO [main] (SearchTest.java:14)- Navigated to books page.
+ INFO [main] (SearchTest.java:28)- Positive book search test passed.
+May 21, 2025 2:12:59 PM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
+WARNING: Unable to find an exact match for CDP version 136, returning the closest version; found: 134; Please update to a Selenium version that supports CDP version 136
+ INFO [main] (TestBase.java:152)- Browser launched: edge
+ INFO [main] (SearchTest.java:34)- Navigated to books page.
+ INFO [main] (SearchTest.java:48)- Negative book search test passed.
+May 21, 2025 2:13:29 PM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
+WARNING: Unable to find an exact match for CDP version 136, returning the closest version; found: 134; Please update to a Selenium version that supports CDP version 136
+ INFO [main] (TestBase.java:152)- Browser launched: edge
+ INFO [main] (FormSubmissionTest.java:42)- Positive form submission tested successfully.
+May 21, 2025 2:13:49 PM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
+WARNING: Unable to find an exact match for CDP version 136, returning the closest version; found: 134; Please update to a Selenium version that supports CDP version 136
+ INFO [main] (TestBase.java:152)- Browser launched: edge
+ INFO [main] (FormSubmissionTest.java:66)- Negative form submission tested successfully.
+May 21, 2025 2:14:17 PM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
+WARNING: Unable to find an exact match for CDP version 136, returning the closest version; found: 134; Please update to a Selenium version that supports CDP version 136
+ INFO [main] (TestBase.java:152)- Browser launched: edge
+ INFO [main] (ExtraFunctionalityTest.java:32)- Actions example test passed.
+May 21, 2025 2:15:09 PM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
+WARNING: Unable to find an exact match for CDP version 136, returning the closest version; found: 134; Please update to a Selenium version that supports CDP version 136
+ INFO [main] (TestBase.java:152)- Browser launched: edge
+ INFO [main] (ExtraFunctionalityTest.java:63)- Windows example test passed.
+May 21, 2025 2:15:29 PM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
+WARNING: Unable to find an exact match for CDP version 136, returning the closest version; found: 134; Please update to a Selenium version that supports CDP version 136
+ INFO [main] (TestBase.java:152)- Browser launched: edge
+ INFO [main] (ExtraFunctionalityTest.java:77)- Iframe example test passed.
+May 21, 2025 2:15:55 PM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
+WARNING: Unable to find an exact match for CDP version 136, returning the closest version; found: 134; Please update to a Selenium version that supports CDP version 136
+ INFO [main] (TestBase.java:152)- Browser launched: edge
+ INFO [main] (ExtraFunctionalityTest.java:97)- Alert example test passed.
+Tests run: 11, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 525.094 sec - in TestSuite
+
+Results :
+
+Tests run: 11, Failures: 0, Errors: 0, Skipped: 0
+
+[INFO] ------------------------------------------------------------------------
+[INFO] BUILD SUCCESS
+[INFO] ------------------------------------------------------------------------
+[INFO] Total time:  08:50 min
+[INFO] Finished at: 2025-05-21T14:20:21+05:30
+[INFO] ------------------------------------------------------------------------
+Finished: SUCCESS
