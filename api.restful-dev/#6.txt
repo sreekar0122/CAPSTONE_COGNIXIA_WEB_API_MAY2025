@@ -1,0 +1,10 @@
+Started by user swarna sai sreekar
+Running as SYSTEM
+Building in workspace C:\Users\swarna.sreekar\.jenkins\workspace\restful-api-postman-tests
+[restful-api-postman-tests] $ cmd /c call C:\Users\SWARNA~1.SRE\AppData\Local\Temp\jenkins3522679770964031784.bat
+
+C:\Users\swarna.sreekar\.jenkins\workspace\restful-api-postman-tests>cd "C:\Users\swarna.sreekar\OneDrive - ascendion\Desktop\HP_Capstone\api.restful-dev" 
+
+C:\Users\swarna.sreekar\OneDrive - ascendion\Desktop\HP_Capstone\api.restful-dev>call runNewman.bat 
+Running Newman Tests...
+Finished: SUCCESS
