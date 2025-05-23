@@ -1,0 +1,84 @@
+2025-05-21 13:13:49,987 [main] INFO tests.TestBase - Browser launched: edge
+2025-05-21 13:13:58,262 [main] INFO tests.TestBase - Invalid login tested successfully.
+2025-05-21 13:14:05,115 [main] INFO tests.TestBase - Browser launched: edge
+2025-05-21 13:14:12,743 [main] INFO tests.TestBase - Wrong username login tested successfully.
+2025-05-21 13:14:21,020 [main] INFO tests.TestBase - Browser launched: edge
+2025-05-21 13:14:31,424 [main] INFO tests.TestBase - Valid login tested successfully.
+2025-05-21 13:16:23,891 [main] INFO tests.TestBase - Browser launched: edge
+2025-05-21 13:16:36,412 [main] INFO tests.TestBase - Invalid login tested successfully.
+2025-05-21 13:16:43,061 [main] INFO tests.TestBase - Browser launched: edge
+2025-05-21 13:16:48,630 [main] INFO tests.TestBase - Wrong username login tested successfully.
+2025-05-21 13:16:54,805 [main] INFO tests.TestBase - Browser launched: edge
+2025-05-21 13:17:03,812 [main] INFO tests.TestBase - Valid login tested successfully.
+2025-05-21 13:17:10,747 [main] INFO tests.TestBase - Browser launched: edge
+2025-05-21 13:17:16,411 [main] INFO tests.TestBase - Navigated to books page.
+2025-05-21 13:17:21,125 [main] INFO tests.TestBase - Positive book search test passed.
+2025-05-21 13:17:27,391 [main] INFO tests.TestBase - Browser launched: edge
+2025-05-21 13:17:33,717 [main] INFO tests.TestBase - Navigated to books page.
+2025-05-21 13:17:48,170 [main] INFO tests.TestBase - Negative book search test passed.
+2025-05-21 13:17:55,250 [main] INFO tests.TestBase - Browser launched: edge
+2025-05-21 13:18:03,858 [main] INFO tests.TestBase - Positive form submission tested successfully.
+2025-05-21 13:18:11,919 [main] INFO tests.TestBase - Browser launched: edge
+2025-05-21 13:18:29,988 [main] INFO tests.TestBase - Negative form submission tested successfully.
+2025-05-21 13:18:37,266 [main] INFO tests.TestBase - Browser launched: edge
+2025-05-21 13:18:49,655 [main] INFO tests.TestBase - Actions example test passed.
+2025-05-21 13:18:56,031 [main] INFO tests.TestBase - Browser launched: edge
+2025-05-21 13:19:08,790 [main] INFO tests.TestBase - Windows example test passed.
+2025-05-21 13:19:16,334 [main] INFO tests.TestBase - Browser launched: edge
+2025-05-21 13:19:37,316 [main] INFO tests.TestBase - Iframe example test passed.
+2025-05-21 13:19:43,574 [main] INFO tests.TestBase - Browser launched: edge
+2025-05-21 13:19:58,450 [main] INFO tests.TestBase - Alert example test passed.
+2025-05-21 14:04:17,871 [main] INFO tests.TestBase - Browser launched: edge
+2025-05-21 14:04:29,585 [main] INFO tests.TestBase - Invalid login tested successfully.
+2025-05-21 14:04:36,620 [main] INFO tests.TestBase - Browser launched: edge
+2025-05-21 14:04:43,660 [main] INFO tests.TestBase - Wrong username login tested successfully.
+2025-05-21 14:04:50,750 [main] INFO tests.TestBase - Browser launched: edge
+2025-05-21 14:05:13,186 [main] ERROR tests.TestBase - Test Failed: loginWithValidCredentials
+2025-05-21 14:11:42,269 [main] INFO tests.TestBase - Browser launched: edge
+2025-05-21 14:11:54,648 [main] INFO tests.TestBase - Invalid login tested successfully.
+2025-05-21 14:12:03,013 [main] INFO tests.TestBase - Browser launched: edge
+2025-05-21 14:12:10,402 [main] INFO tests.TestBase - Wrong username login tested successfully.
+2025-05-21 14:12:19,860 [main] INFO tests.TestBase - Browser launched: edge
+2025-05-21 14:12:31,858 [main] INFO tests.TestBase - Valid login tested successfully.
+2025-05-21 14:12:41,424 [main] INFO tests.TestBase - Browser launched: edge
+2025-05-21 14:12:46,494 [main] INFO tests.TestBase - Navigated to books page.
+2025-05-21 14:12:51,276 [main] INFO tests.TestBase - Positive book search test passed.
+2025-05-21 14:13:00,008 [main] INFO tests.TestBase - Browser launched: edge
+2025-05-21 14:13:07,189 [main] INFO tests.TestBase - Navigated to books page.
+2025-05-21 14:13:21,914 [main] INFO tests.TestBase - Negative book search test passed.
+2025-05-21 14:13:29,320 [main] INFO tests.TestBase - Browser launched: edge
+2025-05-21 14:13:42,119 [main] INFO tests.TestBase - Positive form submission tested successfully.
+2025-05-21 14:13:49,112 [main] INFO tests.TestBase - Browser launched: edge
+2025-05-21 14:14:10,628 [main] INFO tests.TestBase - Negative form submission tested successfully.
+2025-05-21 14:14:17,807 [main] INFO tests.TestBase - Browser launched: edge
+2025-05-21 14:15:01,948 [main] INFO tests.TestBase - Actions example test passed.
+2025-05-21 14:15:09,162 [main] INFO tests.TestBase - Browser launched: edge
+2025-05-21 14:15:22,689 [main] INFO tests.TestBase - Windows example test passed.
+2025-05-21 14:15:29,598 [main] INFO tests.TestBase - Browser launched: edge
+2025-05-21 14:15:48,641 [main] INFO tests.TestBase - Iframe example test passed.
+2025-05-21 14:15:55,645 [main] INFO tests.TestBase - Browser launched: edge
+2025-05-21 14:16:08,219 [main] INFO tests.TestBase - Alert example test passed.
+2025-05-23 11:46:08,353 [main] INFO tests.TestBase - Browser launched: edge
+2025-05-23 11:46:37,626 [main] INFO tests.TestBase - Invalid login tested successfully.
+2025-05-23 11:46:44,684 [main] INFO tests.TestBase - Browser launched: edge
+2025-05-23 11:46:52,393 [main] INFO tests.TestBase - Wrong username login tested successfully.
+2025-05-23 11:46:59,232 [main] INFO tests.TestBase - Browser launched: edge
+2025-05-23 11:47:09,896 [main] INFO tests.TestBase - Valid login tested successfully.
+2025-05-23 11:47:17,571 [main] INFO tests.TestBase - Browser launched: edge
+2025-05-23 11:47:27,247 [main] INFO tests.TestBase - Navigated to books page.
+2025-05-23 11:47:31,575 [main] INFO tests.TestBase - Positive book search test passed.
+2025-05-23 11:47:37,620 [main] INFO tests.TestBase - Browser launched: edge
+2025-05-23 11:47:43,957 [main] INFO tests.TestBase - Navigated to books page.
+2025-05-23 11:47:58,469 [main] INFO tests.TestBase - Negative book search test passed.
+2025-05-23 11:48:05,232 [main] INFO tests.TestBase - Browser launched: edge
+2025-05-23 11:48:13,942 [main] INFO tests.TestBase - Positive form submission tested successfully.
+2025-05-23 11:48:20,715 [main] INFO tests.TestBase - Browser launched: edge
+2025-05-23 11:48:40,756 [main] INFO tests.TestBase - Negative form submission tested successfully.
+2025-05-23 11:48:47,192 [main] INFO tests.TestBase - Browser launched: edge
+2025-05-23 11:48:59,195 [main] INFO tests.TestBase - Actions example test passed.
+2025-05-23 11:49:05,811 [main] INFO tests.TestBase - Browser launched: edge
+2025-05-23 11:49:18,075 [main] INFO tests.TestBase - Windows example test passed.
+2025-05-23 11:49:24,837 [main] INFO tests.TestBase - Browser launched: edge
+2025-05-23 11:49:49,196 [main] INFO tests.TestBase - Iframe example test passed.
+2025-05-23 11:49:55,766 [main] INFO tests.TestBase - Browser launched: edge
+2025-05-23 11:50:07,252 [main] INFO tests.TestBase - Alert example test passed.
